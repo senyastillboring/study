@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Практическое задание</title>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap&quot; rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css&quot"; rel="stylesheet">
+ <link href="https://glcdn.githack.com/senyastillboring-group/senyastillboring-project/-/raw/%D0%B4%D0%B4/css.css; rel="stylesheet">
+</head>
+<body>
+    <div class="flat-page">
+        <header>
+            <div class="container">
+                <div id="wrapper">
+                    <nav>
+                        <ul>
+                            <li><a href="#">Главаная страница</a></li>
+                            <li><a href="#">Сведения</a></li>
+                            <li><a href="#">Товары</a>
+                                <ul>
+                                    <li><a href="#">Попугаи</a></li>
+                                    <li><a href="#">Клетки</a></li>
+                                    <li><a href="#">Еда</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Контакты</a></li>
+                            <li><a href="#">Блог</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <div class="content">
+            <div class="container">
+                <div class="info">
+                    <h1>Добро пожаловать на наш сайт</h1>
+                    <p>Это лидабзац</p>
+                    <button><a href="#" target="_blank">Подробнее</a></button>
+                </div>
+                <div class="image">
+                    <img src="pngtree-white-parrot-cockatoo-clipart-png-image_14165058.png; alt="Описание изображения">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
